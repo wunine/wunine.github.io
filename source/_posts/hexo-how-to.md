@@ -1,7 +1,7 @@
 ---
 title: 如何使用hexo
 date: 2021-07-08 22:23:10
-tags:
+tags: git
 ---
 
 ## 0x1上传
