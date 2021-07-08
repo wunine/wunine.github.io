@@ -3,5 +3,18 @@
   
   
   
+  <entry>
+    <title>如何使用hexo</title>
+    <link href="/2021/07/08/hexo-how-to/"/>
+    <url>/2021/07/08/hexo-how-to/</url>
+    
+    <content type="html"><![CDATA[<p><code>git add .</code></p><p><code>git commit -m &quot;upload article hexo_how_to&quot;</code></p><p><code>git push -u origin hexo </code></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
   
 </search>
