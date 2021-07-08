@@ -3,9 +3,12 @@ language: node_js
 node_js:
   - 10 # use nodejs v10 LTS
 cache: npm
+before_script: ## 根据你所用的主题和自定义的不同，这里会有所不同
+  - npm install -g hexo-cli # 在 CI 环境内安装 Hexo
+  - npm install --save hexo-theme-fluid 
 branches:
   only:
-    - hexo # build master branch only
+    - hexo # build hexo branch only
 script:
   - hexo generate # generate static files
 deploy:
