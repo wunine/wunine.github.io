@@ -36,5 +36,5 @@ tags:
 
 复制代码
 
-`git reset --hard origin/master` 
+`git reset --hard origin/hexo` 
 
