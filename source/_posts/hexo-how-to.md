@@ -30,11 +30,13 @@ tags: git
 
 
 
+#复制代码
+
 `git fetch --all`
 
 
 
-复制代码
+#丢弃修改（对git一无所知）
 
 `git reset --hard origin/hexo` 
 
